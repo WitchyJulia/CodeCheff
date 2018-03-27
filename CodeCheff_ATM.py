@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 input_ = raw_input()
 a,b = input_.split(" ")[:2]
 a = float(a)
