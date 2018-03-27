@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[47]:
-
-
 days = []
 share = raw_input("Numbers:").split()
 for word in share:
