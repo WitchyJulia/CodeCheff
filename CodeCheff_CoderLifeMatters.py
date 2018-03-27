@@ -1,12 +1,12 @@
 days = []
-share = raw_input("Numbers:").split()
+share = raw_input().split()
 for word in share:
     days.append(word)
 test_cases = days[:1:]
 for number in test_cases:
     cases = int(number)
 count = 31
-startup = 2
+startup = 1
 
 for number in range(0,cases):
     start = int(startup)
