@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[6]:
-
-
 uncompressed = str(raw_input())
 uncompressed = list(uncompressed.split())
 rows = uncompressed[0:1:1]
